@@ -1,0 +1,11 @@
+Nombre de usuario de FTP:
+termofusion@nitchi-peru.com
+
+Servidor FTP:
+ftp.nitchi-peru.com
+
+Puerto FTPS explícito de FTP &:
+21
+
+contraseña:
+KH,$g2D[x6D]
